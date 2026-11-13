@@ -1,0 +1,13 @@
+{
+  "name": "qb-dental-demo",
+  "version": "4.0.0",
+  "private": true,
+  "description": "QB Dental demo website and appointment panel (fictional data only)",
+  "scripts": {
+    "build": "python3 build.py"
+  },
+  "dependencies": {
+    "@fontsource-variable/instrument-sans": "^5.3.0",
+    "@fontsource/hedvig-letters-serif": "^5.3.1"
+  }
+}
